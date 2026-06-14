@@ -56,8 +56,7 @@
 
 ## 📊 GitHub Stats
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Samson401&show_icons=true&theme=dark)
-
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Samson401&show_icons=true&theme=dark&hide=issues,contribs)
 ---
 
 *“Code. Coffee. Kenyan property tech.”* ☕🇰🇪
