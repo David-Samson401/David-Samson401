@@ -9,7 +9,7 @@
 | Area | Technologies |
 |------|--------------|
 | **Frontend** | React, Next.js, TypeScript, Tailwind CSS, JavaScript (ES6+) |
-| **Backend** | Node.js, Express (learning), Supabase |
+| **Backend** | Node.js, Express (learning), Supabase | Java | SpringBoot
 | **State** | Zustand, Redux Toolkit, Redux-Saga, React Context |
 | **Tools** | Git, GitHub, Vercel, pnpm, VS Code, DeepSeek API |
 
